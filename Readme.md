@@ -13,10 +13,10 @@
 1. Turn on the Drive API
 	1. Use this wizard to create or select a project in the Google Developers Console and automatically turn on the API. 		   Click Continue, then Go to credentials.
 	2. On the Add credentials to your project page, click the Cancel button.
-	c. At the top of the page, select the OAuth consent screen tab. Select an Email address, enter a Product name if not 		   already set, and click the Save button.
-	3. Select the Credentials tab, click the Create credentials button and select OAuth client ID.
-	4. Select the application type Other, enter the name "Drive API Quickstart", and click the Create button.
-	5. Click OK to dismiss the resulting dialog.
-	6. Click the file_download (Download JSON) button to the right of the client ID.
+	3. At the top of the page, select the OAuth consent screen tab. Select an Email address, enter a Product name if not 		   already set, and click the Save button.
+	4. Select the Credentials tab, click the Create credentials button and select OAuth client ID.
+	5. Select the application type Other, enter the name "Drive API Quickstart", and click the Create button.
+	6. Click OK to dismiss the resulting dialog.
+	7. Click the file_download (Download JSON) button to the right of the client ID.
 2. Move this JSON file to your working_directory/credentials and rename it client_secret.json.
 3. Run php script create_token.php for access token creatation.
