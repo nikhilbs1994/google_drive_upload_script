@@ -18,5 +18,5 @@
 	e. Select the application type Other, enter the name "Drive API Quickstart", and click the Create button.
 	f. Click OK to dismiss the resulting dialog.
 	g. Click the file_download (Download JSON) button to the right of the client ID.
-2. Move this JsON file to your working_directory/credentials and rename it client_secret.json.
+2. Move this JSON file to your working_directory/credentials and rename it client_secret.json.
 3. Run php script create_token.php for access token creatation.
